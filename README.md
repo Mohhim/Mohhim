@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed 👋
+# Hi, I'm Mohammed Alhakami👋
 
 ### Data Analyst | Business Intelligence | Power BI & SQL
 
